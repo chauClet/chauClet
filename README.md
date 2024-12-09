@@ -10,6 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chauClet/azure-network-inspecting)
   - [Installing Active Directory within Azure VMs](https://github.com/chauClet/azure-install-ad)
   - [Configuring/Using Active Directory in Azure VMs](https://github.com/chauClet/azure-configure-ad)
+  - [Understanding DNS](https://github.com/chauClet/azure-dns)
 
 <h2>🤳Connect with me:</h2>
 
